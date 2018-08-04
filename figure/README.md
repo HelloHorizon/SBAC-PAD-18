@@ -1,7 +1,7 @@
 Description of scripts:
 
 Line Counter execution time base on Alluxio and HDFS:
-linecounter_alluxio_hdfs_execution_time.sh
+'linecounter_alluxio_hdfs_execution_time.sh'
 
 Line Counter execution time base on Spark persistence(Memory, Memory with SER, HDD and NVMe):
 linecounter_Spark_RDD_Persistence_execution_time.sh
