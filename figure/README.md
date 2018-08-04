@@ -1,4 +1,4 @@
-Describetion of scripts:
+Description of scripts:
 
 Line Counter execution time base on Alluxio and HDFS:
 linecounter_alluxio_hdfs_execution_time.sh
