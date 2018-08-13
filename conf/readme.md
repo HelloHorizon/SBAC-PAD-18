@@ -1,1 +1,2 @@
-This folder contains Spark, HDFS and Alluxio configuration.
+This folder contains Spark and Hadoop(HDFS) configuration.
+Alluxio is based on default settting.
