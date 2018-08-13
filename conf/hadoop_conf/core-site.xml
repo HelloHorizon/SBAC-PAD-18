@@ -1,0 +1,11 @@
+<configuration>
+    <property>
+        <name>hadoop.tmp.dir</name>
+        <value>file:/hdd/sc1534/hadoop-2.7/tmp</value>
+        <description>Abase for other temporary directories.</description>
+    </property>
+    <property>
+        <name>fs.defaultFS</name>
+        <value>hdfs://caper01.rutgers.edu:9000</value>
+    </property>
+</configuration>
